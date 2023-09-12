@@ -1,4 +1,4 @@
-![KolimaH4x Banner](./assets/banner.jpg)
+![KolimaH4x Banner](./assets/profile_banner.jpg)
 
 <img src="./assets/hacker.gif" width='40' align="left"/><h2>&nbsp;Hey there! I'm KolimaH4x</h2>
 
